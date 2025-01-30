@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nestcheck App</string>
+    <string name="StringBox">Nestbox</string>
+    <string name="savebuttonS">Save Nestbox-Selection</string>
+    <string name="loadS">Load</string>
+    <string name="testdercheckboxenS">TestDerCheckboxen</string>
+    <string name="mapS">Map</string>
+    <string name="nestbox1S">1</string>
+    <string name="nestbox3S">3</string>
+    <string name="nestbox2S">2</string>
+    <string name="APP_KEY">yrp4n5jwzviqdef</string>
+    <string name="filePathString">/Bielefeld Teuto Nestbox Study 2023/NESTCHECKS_LUKAS_TEST.xlsx</string>
+</resources>
