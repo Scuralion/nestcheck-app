@@ -4,7 +4,7 @@ It also allows to upload and format the collected data into a shared excel sprea
 While it is highly customized to its specific task, I hope it can inspire fellow junior researchers with an interest in app-development to develop custom solutions for your research questions.
 ![Screenshot (156)](https://github.com/user-attachments/assets/59e9def6-6d4d-4e17-a5e7-80d337bd2f05)
 
-<img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="200](https://github.com/user-attachments/assets/59e9def6-6d4d-4e17-a5e7-80d337bd2f05" />
+<img src="https://github.com/user-attachments/assets/59e9def6-6d4d-4e17-a5e7-80d337bd2f05" />
 
 
 DROPBOX-CONNECTION
