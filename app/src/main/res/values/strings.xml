@@ -8,6 +8,6 @@
     <string name="nestbox1S">1</string>
     <string name="nestbox3S">3</string>
     <string name="nestbox2S">2</string>
-    <string name="APP_KEY">yrp4n5jwzviqdef</string>
-    <string name="filePathString">/Bielefeld Teuto Nestbox Study 2023/NESTCHECKS_LUKAS_TEST.xlsx</string>
+    <string name="APP_KEY">HERE-APP-KEY</string>
+    <string name="filePathString">HERE-PATH-TO-DROPBOX-EXCEL-FILE</string>
 </resources>
