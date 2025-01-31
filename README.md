@@ -2,9 +2,8 @@ An android app created for blue-and-great-tits-monitoring project. Within the Pr
 The app makes this easy by providing a map, highlighting the location of each box and facilitating easy notekeeping of observations.
 It also allows to upload and format the collected data into a shared excel spread sheet located within a shared dropbox folder.
 While it is highly customized to its specific task, I hope it can inspire fellow junior researchers with an interest in app-development to develop custom solutions for your research questions.
-![Screenshot (156)](https://github.com/user-attachments/assets/59e9def6-6d4d-4e17-a5e7-80d337bd2f05)
 
-<img src="https://github.com/user-attachments/assets/59e9def6-6d4d-4e17-a5e7-80d337bd2f05" />
+<img src="https://github.com/user-attachments/assets/59e9def6-6d4d-4e17-a5e7-80d337bd2f05" width="200" />
 
 
 DROPBOX-CONNECTION
